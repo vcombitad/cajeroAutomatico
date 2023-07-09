@@ -1,0 +1,21 @@
+.inicio {
+    
+    width: 100%;
+    height: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: rgb(39, 68, 58);
+}
+.bienvenido {
+    font-size: 30px;
+    
+} 
+#saldoUsuario {
+    margin-top: 10px;
+    height: 45px;
+    border-radius: 7px;
+    padding: 7px 12px;
+    background: rgb(39, 68, 58);
+    color: white;
+    text-align: center;
+}

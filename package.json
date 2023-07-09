@@ -1,0 +1,20 @@
+{
+  "name": "cajeroautomatico",
+  "version": "1.0.0",
+  "description": "Se crea una simulación de comportamiento de cajero, bajo determinados parámetros.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vcombitad/cajeroAutomatico.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vcombitad/cajeroAutomatico/issues"
+  },
+  "homepage": "https://github.com/vcombitad/cajeroAutomatico#readme"
+}
